@@ -49,4 +49,229 @@
             ❓ Quiz
         </button>
 
-        <button class="menu-btn" data-action
+        <button class="menu-btn" data-action="rattrapage">
+            🔄 Rattrapage
+        </button>
+
+        <button class="menu-btn" data-action="stats">
+            🏆 Mes résultats
+        </button>
+
+    </section>
+
+    <!-- RÉSUMÉ DÉTAILLÉ -->
+
+    <section id="resume-detaille-screen" class="screen">
+
+        <button class="back-btn">⬅ Retour</button>
+
+        <h2>📖 Résumé détaillé</h2>
+
+        <div id="resume-detaille-content"></div>
+
+        <div class="navigation-buttons">
+            <button id="resume-prev">
+                ◀ Précédent
+            </button>
+
+            <span id="resume-counter">
+                1 / 10
+            </span>
+
+            <button id="resume-next">
+                Suivant ▶
+            </button>
+        </div>
+
+    </section>
+
+    <!-- RÉSUMÉ EXPRESS -->
+
+    <section id="resume-express-screen" class="screen">
+
+        <button class="back-btn">⬅ Retour</button>
+
+        <h2>⚡ Résumé express</h2>
+
+        <div id="resume-express-content"></div>
+
+    </section>
+
+    <!-- ESSENTIEL -->
+
+    <section id="essentiel-screen" class="screen">
+
+        <button class="back-btn">⬅ Retour</button>
+
+        <h2>🧠 À connaître par cœur</h2>
+
+        <div id="essentiel-content"></div>
+
+    </section>
+
+    <!-- FLASHCARDS -->
+
+    <section id="flashcards-screen" class="screen">
+
+        <button class="back-btn">⬅ Retour</button>
+
+        <h2>🎴 Flashcards</h2>
+
+        <div id="flashcard-progress">
+            Carte 0 / 100
+        </div>
+
+        <div id="flashcard-box">
+
+            Clique pour commencer
+
+        </div>
+
+        <button id="shuffle-flashcards">
+            🔀 Mélanger
+        </button>
+
+    </section>
+
+    <!-- QUIZ -->
+
+    <section id="quiz-screen" class="screen">
+
+        <button class="back-btn">⬅ Retour</button>
+
+        <h2>❓ Quiz</h2>
+
+        <div id="quiz-progress">
+            Question 1 / 75
+        </div>
+
+        <div id="quiz-question">
+
+        </div>
+
+        <div id="quiz-options">
+
+        </div>
+
+        <div id="quiz-feedback">
+
+        </div>
+
+        <button
+            id="next-question"
+            style="display:none">
+
+            Question suivante
+
+        </button>
+
+    </section>
+
+    <!-- RATTRAPAGE -->
+
+    <section id="rattrapage-screen" class="screen">
+
+        <button class="back-btn">⬅ Retour</button>
+
+        <h2>🔄 Révision des erreurs</h2>
+
+        <div id="rattrapage-content">
+
+            Aucune erreur enregistrée.
+
+        </div>
+
+    </section>
+
+    <!-- STATISTIQUES -->
+
+    <section id="stats-screen" class="screen">
+
+        <button class="back-btn">⬅ Retour</button>
+
+        <h2>🏆 Mes résultats</h2>
+
+        <div id="stats-content">
+
+            <div class="stat-card">
+                <strong>Meilleur score</strong>
+                <span id="best-score">0</span>
+            </div>
+
+            <div class="stat-card">
+                <strong>Dernier score</strong>
+                <span id="last-score">0</span>
+            </div>
+
+            <div class="stat-card">
+                <strong>Pourcentage</strong>
+                <span id="score-percent">0%</span>
+            </div>
+
+            <div class="stat-card">
+                <strong>Erreurs enregistrées</strong>
+                <span id="error-count">0</span>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ÉCRAN RÉSULTAT -->
+
+    <section id="result-screen" class="screen">
+
+        <h2>🎉 Résultat</h2>
+
+        <div id="final-score"></div>
+
+        <div id="final-level"></div>
+
+        <div id="final-errors"></div>
+
+        <button id="retry-quiz">
+
+            Refaire le quiz
+
+        </button>
+
+        <button id="review-errors">
+
+            Réviser mes erreurs
+
+        </button>
+
+        <button id="home-button">
+
+            Retour accueil
+
+        </button>
+
+    </section>
+
+</main>
+
+<footer>
+
+    <small>
+        Evo Échange • Révision économie 9P
+    </small>
+
+</footer>
+
+<script src="js/app.js"></script>
+
+<script>
+
+if ("serviceWorker" in navigator) {
+
+    navigator.serviceWorker.register(
+        "service-worker.js"
+    );
+
+}
+
+</script>
+
+</body>
+</html>
