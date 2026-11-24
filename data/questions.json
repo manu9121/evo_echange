@@ -1,0 +1,992 @@
+[
+  {
+    "question": "L'autarcie est :",
+    "options": [
+      "Une économie fermée",
+      "Une banque nationale",
+      "Un moyen de paiement",
+      "Une forme de monnaie"
+    ],
+    "bonneReponse": 0,
+    "explication": "L'autarcie est une situation où l'on vit avec peu ou pas d'échanges avec l'extérieur."
+  },
+  {
+    "question": "Dans une situation d'autarcie, les individus consomment principalement :",
+    "options": [
+      "Des biens importés",
+      "Ce qu'ils produisent eux-mêmes",
+      "Des biens financés par les banques",
+      "Des produits de luxe"
+    ],
+    "bonneReponse": 1,
+    "explication": "En autarcie, on produit ce que l'on consomme et on consomme ce que l'on produit."
+  },
+  {
+    "question": "Un autre nom de l'autarcie est :",
+    "options": [
+      "Économie marchande",
+      "Économie numérique",
+      "Économie fermée",
+      "Économie industrielle"
+    ],
+    "bonneReponse": 2,
+    "explication": "L'autarcie est aussi appelée économie fermée."
+  },
+  {
+    "question": "Quel était l'objectif principal des premiers humains vivant en autarcie ?",
+    "options": [
+      "Faire du commerce",
+      "Accumuler de l'argent",
+      "Voyager",
+      "Assurer leur survie"
+    ],
+    "bonneReponse": 3,
+    "explication": "Leur préoccupation principale était de satisfaire leurs besoins vitaux."
+  },
+  {
+    "question": "Quel besoin les peuples primitifs cherchaient-ils surtout à satisfaire ?",
+    "options": [
+      "Les besoins primaires",
+      "Les loisirs",
+      "Le tourisme",
+      "Les investissements"
+    ],
+    "bonneReponse": 0,
+    "explication": "Ils cherchaient avant tout à satisfaire leurs besoins vitaux."
+  },
+  {
+    "question": "Comment appelle-t-on des peuples qui se déplacent régulièrement ?",
+    "options": [
+      "Sédentaires",
+      "Nomades",
+      "Citadins",
+      "Commerçants"
+    ],
+    "bonneReponse": 1,
+    "explication": "Les peuples qui changent fréquemment de lieu de vie sont appelés nomades."
+  },
+  {
+    "question": "Pourquoi les peuples nomades se déplaçaient-ils ?",
+    "options": [
+      "Pour visiter d'autres régions",
+      "Pour chercher du travail",
+      "Pour trouver de nouvelles ressources",
+      "Pour faire du commerce"
+    ],
+    "bonneReponse": 2,
+    "explication": "Ils se déplaçaient lorsque les ressources d'une région devenaient insuffisantes."
+  },
+  {
+    "question": "Quel changement a favorisé la sédentarisation ?",
+    "options": [
+      "Internet",
+      "Les banques",
+      "La monnaie",
+      "L'agriculture et l'élevage"
+    ],
+    "bonneReponse": 3,
+    "explication": "L'agriculture et l'élevage ont permis aux humains de rester sur place."
+  },
+  {
+    "question": "Que signifie la spécialisation du travail ?",
+    "options": [
+      "Répartir les tâches",
+      "Utiliser une seule monnaie",
+      "Construire des routes",
+      "Créer une banque"
+    ],
+    "bonneReponse": 0,
+    "explication": "La spécialisation consiste à répartir les activités pour être plus efficace."
+  },
+  {
+    "question": "Le passage de l'autarcie au troc est devenu possible grâce à :",
+    "options": [
+      "La publicité",
+      "La création d'un surplus",
+      "La télévision",
+      "Les impôts"
+    ],
+    "bonneReponse": 1,
+    "explication": "Sans surplus de production, il n'y a rien à échanger."
+  },
+  {
+    "question": "Qu'est-ce qu'un surplus ?",
+    "options": [
+      "Une dette",
+      "Un impôt",
+      "Une production supérieure aux besoins",
+      "Une monnaie étrangère"
+    ],
+    "bonneReponse": 2,
+    "explication": "Le surplus correspond à ce qui est produit en plus des besoins."
+  },
+  {
+    "question": "Le troc est :",
+    "options": [
+      "Un échange direct de biens",
+      "Un prêt bancaire",
+      "Un impôt",
+      "Une monnaie métallique"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le troc consiste à échanger directement un bien contre un autre."
+  },
+  {
+    "question": "Le troc utilise :",
+    "options": [
+      "Des billets",
+      "Des pièces",
+      "Des cartes bancaires",
+      "Aucune monnaie"
+    ],
+    "bonneReponse": 3,
+    "explication": "Le troc se réalise sans argent."
+  },
+  {
+    "question": "Quelle condition est indispensable pour pratiquer le troc ?",
+    "options": [
+      "Posséder une banque",
+      "Posséder un bien à échanger",
+      "Avoir une carte bancaire",
+      "Avoir un compte en ligne"
+    ],
+    "bonneReponse": 1,
+    "explication": "Chaque personne doit disposer d'un bien ou service à échanger."
+  },
+  {
+    "question": "Quel est un avantage du troc ?",
+    "options": [
+      "Permet d'obtenir des biens sans argent",
+      "Garantit des prix fixes",
+      "Supprime tous les problèmes d'échange",
+      "Crée automatiquement un bénéfice"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le troc permet d'acquérir un bien sans utiliser de monnaie."
+  },
+  {
+    "question": "Quel est un inconvénient majeur du troc ?",
+    "options": [
+      "Il nécessite Internet",
+      "Il faut trouver un partenaire compatible",
+      "Il nécessite une banque centrale",
+      "Il exige des impôts"
+    ],
+    "bonneReponse": 1,
+    "explication": "Les deux personnes doivent vouloir réciproquement ce que possède l'autre."
+  },
+  {
+    "question": "Pourquoi le troc limite-t-il le commerce ?",
+    "options": [
+      "Les objets sont toujours interdits",
+      "Les gouvernements l'interdisent",
+      "Les échanges sont difficiles à organiser",
+      "Il n'existe pas de biens à échanger"
+    ],
+    "bonneReponse": 2,
+    "explication": "Trouver le bon partenaire et fixer une valeur d'échange est souvent compliqué."
+  },
+  {
+    "question": "Parmi ces exemples, lequel est du troc ?",
+    "options": [
+      "Acheter un livre avec CHF",
+      "Payer avec une carte bancaire",
+      "Recevoir un salaire",
+      "Échanger un vélo contre une console"
+    ],
+    "bonneReponse": 3,
+    "explication": "Il s'agit d'un échange direct sans utilisation d'argent."
+  },
+  {
+    "question": "Quel exemple représente encore du troc aujourd'hui ?",
+    "options": [
+      "Un vide-grenier avec échange d'objets",
+      "Un paiement Twint",
+      "Un retrait au bancomat",
+      "Un virement bancaire"
+    ],
+    "bonneReponse": 0,
+    "explication": "Le troc existe encore dans certains échanges directs."
+  },
+  {
+    "question": "Pourquoi la monnaie a-t-elle remplacé progressivement le troc ?",
+    "options": [
+      "Parce qu'elle facilite les échanges",
+      "Parce qu'elle supprime la production",
+      "Parce qu'elle remplace le travail",
+      "Parce qu'elle supprime les besoins"
+    ],
+    "bonneReponse": 0,
+    "explication": "La monnaie rend les échanges beaucoup plus simples."
+  },
+  {
+    "question": "Quel est le rôle principal de la monnaie ?",
+    "options": [
+      "Servir d'intermédiaire dans les échanges",
+      "Remplacer les biens",
+      "Créer des ressources naturelles",
+      "Produire des marchandises"
+    ],
+    "bonneReponse": 0,
+    "explication": "La monnaie facilite l'achat et la vente de biens et services."
+  },
+  {
+    "question": "Les premières monnaies étaient souvent :",
+    "options": [
+      "Numériques",
+      "Scripturales",
+      "Des monnaies marchandises",
+      "Des cartes de crédit"
+    ],
+    "bonneReponse": 2,
+    "explication": "Les premières monnaies étaient des biens reconnus par tous."
+  },
+  {
+    "question": "Parmi ces exemples, lequel est une monnaie marchandise ?",
+    "options": [
+      "Carte Visa",
+      "Coquillage",
+      "Billet de 20 CHF",
+      "Twint"
+    ],
+    "bonneReponse": 1,
+    "explication": "Les coquillages ont été utilisés comme monnaie marchandise."
+  },
+  {
+    "question": "Le sel a longtemps été utilisé comme :",
+    "options": [
+      "Impôt",
+      "Monnaie marchandise",
+      "Banque",
+      "Monnaie scripturale"
+    ],
+    "bonneReponse": 1,
+    "explication": "Le sel possédait une valeur reconnue et servait de monnaie."
+  },
+  {
+    "question": "Quelle caractéristique est recherchée pour une monnaie marchandise ?",
+    "options": [
+      "Être facilement reconnue comme ayant de la valeur",
+      "Être gratuite",
+      "Être jetable",
+      "Être produite en très grande quantité"
+    ],
+    "bonneReponse": 0,
+    "explication": "Une monnaie doit être reconnue et acceptée par tous pour fonctionner."
+  },
+{
+  "question": "Pourquoi certaines marchandises ont-elles été choisies comme monnaie ?",
+  "options": [
+    "Parce qu'elles étaient sans valeur",
+    "Parce qu'elles étaient reconnues par tous",
+    "Parce qu'elles étaient imposées par internet",
+    "Parce qu'elles étaient gratuites"
+  ],
+  "bonneReponse": 1,
+  "explication": "Une monnaie doit être acceptée et reconnue par les personnes qui l'utilisent."
+},
+{
+  "question": "La rareté est importante pour une monnaie marchandise car :",
+  "options": [
+    "Elle augmente sa valeur",
+    "Elle la rend invisible",
+    "Elle la supprime",
+    "Elle la remplace"
+  ],
+  "bonneReponse": 0,
+  "explication": "Une monnaie trop abondante perd facilement sa valeur."
+},
+{
+  "question": "Quelle qualité est utile pour une monnaie marchandise ?",
+  "options": [
+    "Être périssable",
+    "Être fragile",
+    "Être facile à compter",
+    "Être encombrante"
+  ],
+  "bonneReponse": 2,
+  "explication": "Une monnaie doit pouvoir être comptée facilement pour faciliter les échanges."
+},
+{
+  "question": "Quel avantage la monnaie marchandise possède-t-elle par rapport au troc ?",
+  "options": [
+    "Elle supprime les échanges",
+    "Elle sert d'intermédiaire",
+    "Elle remplace la production",
+    "Elle empêche le commerce"
+  ],
+  "bonneReponse": 1,
+  "explication": "La monnaie sépare l'achat et la vente et facilite les échanges."
+},
+{
+  "question": "Un inconvénient fréquent de la monnaie marchandise est :",
+  "options": [
+    "Sa fragilité",
+    "Sa rapidité",
+    "Sa sécurité parfaite",
+    "Son uniformité"
+  ],
+  "bonneReponse": 0,
+  "explication": "Certaines monnaies marchandises se détériorent facilement."
+},
+{
+  "question": "Pourquoi la monnaie marchandise a-t-elle été remplacée ?",
+  "options": [
+    "Elle était souvent difficile à transporter",
+    "Elle était électronique",
+    "Elle dépendait d'internet",
+    "Elle était trop moderne"
+  ],
+  "bonneReponse": 0,
+  "explication": "Le transport, la conservation et l'évaluation étaient parfois compliqués."
+},
+{
+  "question": "Quelle forme de monnaie a remplacé progressivement la monnaie marchandise ?",
+  "options": [
+    "La monnaie virtuelle",
+    "La monnaie métallique",
+    "La monnaie scripturale",
+    "La cryptomonnaie"
+  ],
+  "bonneReponse": 1,
+  "explication": "Les métaux précieux ont progressivement remplacé les autres biens servant de monnaie."
+},
+{
+  "question": "Quels métaux ont principalement servi à fabriquer la monnaie métallique ?",
+  "options": [
+    "Plastique et verre",
+    "Bois et pierre",
+    "Or et argent",
+    "Papier et carton"
+  ],
+  "bonneReponse": 2,
+  "explication": "L'or et l'argent étaient particulièrement appréciés pour leurs qualités."
+},
+{
+  "question": "Quel avantage possède la monnaie métallique ?",
+  "options": [
+    "Elle est divisible",
+    "Elle est périssable",
+    "Elle fond sous la pluie",
+    "Elle est invisible"
+  ],
+  "bonneReponse": 0,
+  "explication": "On peut facilement la séparer en unités de valeur différentes."
+},
+{
+  "question": "Pourquoi l'or et l'argent étaient-ils appréciés comme monnaie ?",
+  "options": [
+    "Parce qu'ils étaient communs",
+    "Parce qu'ils étaient rares et recherchés",
+    "Parce qu'ils étaient gratuits",
+    "Parce qu'ils étaient fragiles"
+  ],
+  "bonneReponse": 1,
+  "explication": "Leur rareté leur donnait une valeur reconnue."
+},
+{
+  "question": "La monnaie métallique est plus facile à :",
+  "options": [
+    "Transporter",
+    "Brûler",
+    "Faire disparaître",
+    "Remplacer par des légumes"
+  ],
+  "bonneReponse": 0,
+  "explication": "Elle est généralement plus pratique à transporter qu'une monnaie marchandise."
+},
+{
+  "question": "Quel est un autre avantage de la monnaie métallique ?",
+  "options": [
+    "Elle est standardisable",
+    "Elle est périssable",
+    "Elle est vivante",
+    "Elle disparaît rapidement"
+  ],
+  "bonneReponse": 0,
+  "explication": "Les pièces peuvent avoir une taille, un poids et une valeur identiques."
+},
+{
+  "question": "Quel inconvénient de la monnaie métallique a favorisé l'apparition des billets ?",
+  "options": [
+    "Les risques de vol",
+    "Le manque de valeur",
+    "L'absence de commerce",
+    "Le manque de métaux"
+  ],
+  "bonneReponse": 0,
+  "explication": "Transporter beaucoup de pièces attirait les voleurs."
+},
+{
+  "question": "Pourquoi les commerçants déposaient-ils leur or chez les orfèvres ?",
+  "options": [
+    "Pour le décorer",
+    "Pour le vendre",
+    "Pour le mettre en sécurité",
+    "Pour le transformer en nourriture"
+  ],
+  "bonneReponse": 2,
+  "explication": "Les orfèvres conservaient les métaux précieux en lieu sûr."
+},
+{
+  "question": "Que recevait un commerçant après avoir déposé son or ?",
+  "options": [
+    "Une quittance",
+    "Une carte bancaire",
+    "Une facture d'électricité",
+    "Une obligation"
+  ],
+  "bonneReponse": 0,
+  "explication": "L'orfèvre remettait un certificat attestant du dépôt."
+},
+{
+  "question": "Ces quittances sont les ancêtres :",
+  "options": [
+    "Des cryptomonnaies",
+    "Des cartes de crédit",
+    "Des billets de banque",
+    "Des actions"
+  ],
+  "bonneReponse": 2,
+  "explication": "Les billets sont issus de ces certificats de dépôt."
+},
+{
+  "question": "Le mot 'fiduciaire' signifie :",
+  "options": [
+    "Métal",
+    "Confiance",
+    "Commerce",
+    "Compte"
+  ],
+  "bonneReponse": 1,
+  "explication": "Le terme vient du latin et renvoie à l'idée de confiance."
+},
+{
+  "question": "La monnaie fiduciaire correspond à :",
+  "options": [
+    "L'or et l'argent",
+    "Les écritures bancaires",
+    "Les billets et les pièces",
+    "Les chèques uniquement"
+  ],
+  "bonneReponse": 2,
+  "explication": "La monnaie fiduciaire est constituée des billets et pièces en circulation."
+},
+{
+  "question": "Pourquoi la monnaie fiduciaire fonctionne-t-elle ?",
+  "options": [
+    "Grâce à la confiance de la population",
+    "Grâce à internet",
+    "Grâce aux téléphones",
+    "Grâce au troc"
+  ],
+  "bonneReponse": 0,
+  "explication": "Sa valeur repose avant tout sur la confiance."
+},
+{
+  "question": "Quel avantage possède la monnaie fiduciaire par rapport à la monnaie métallique ?",
+  "options": [
+    "Moins d'encombrement",
+    "Plus de poids",
+    "Plus de rouille",
+    "Moins de sécurité"
+  ],
+  "bonneReponse": 0,
+  "explication": "Les billets permettent de transporter de fortes valeurs plus facilement."
+},
+{
+  "question": "Quel organisme a remplacé progressivement le rôle des orfèvres ?",
+  "options": [
+    "Les banques",
+    "Les écoles",
+    "Les assurances",
+    "Les postes"
+  ],
+  "bonneReponse": 0,
+  "explication": "Les banques ont repris la gestion des dépôts et des billets."
+},
+{
+  "question": "Quel est un inconvénient de la monnaie fiduciaire ?",
+  "options": [
+    "Le risque de vol",
+    "Son absence de valeur",
+    "L'impossibilité de payer",
+    "Son interdiction"
+  ],
+  "bonneReponse": 0,
+  "explication": "Les billets et pièces peuvent être perdus ou volés."
+},
+{
+  "question": "Quelle forme de monnaie tend aujourd'hui à remplacer une partie de la monnaie fiduciaire ?",
+  "options": [
+    "La monnaie marchandise",
+    "La monnaie métallique",
+    "La monnaie scripturale",
+    "Le troc"
+  ],
+  "bonneReponse": 2,
+  "explication": "Les paiements électroniques prennent une place croissante."
+},
+{
+  "question": "Le mot 'scriptural' signifie :",
+  "options": [
+    "Qui est écrit",
+    "Qui est métallique",
+    "Qui est précieux",
+    "Qui est imprimé"
+  ],
+  "bonneReponse": 0,
+  "explication": "Scriptural vient du latin 'scriptura', qui signifie écrit."
+},
+{
+  "question": "La monnaie scripturale existe principalement sous forme :",
+  "options": [
+    "De coquillages",
+    "D'écritures électroniques sur des comptes",
+    "De lingots d'or",
+    "De billets anciens"
+  ],
+  "bonneReponse": 1,
+  "explication": "Elle existe grâce aux inscriptions dans les comptes bancaires."
+},
+{
+  "question": "La monnaie scripturale existe principalement sous forme de :",
+  "options": [
+    "Pièces métalliques",
+    "Écritures électroniques",
+    "Billets de banque",
+    "Lingots"
+  ],
+  "bonneReponse": 1,
+  "explication": "La monnaie scripturale existe dans les comptes bancaires sous forme d'écritures électroniques."
+},
+{
+  "question": "Quel est un avantage de la monnaie scripturale ?",
+  "options": [
+    "Paiements électroniques faciles",
+    "Absence de contrôle",
+    "Aucune trace des dépenses",
+    "Suppression des banques"
+  ],
+  "bonneReponse": 0,
+  "explication": "Elle permet notamment les virements, paiements en ligne et par carte."
+},
+{
+  "question": "Quel est un inconvénient possible de la monnaie scripturale ?",
+  "options": [
+    "Impossible à utiliser",
+    "Peut favoriser l'endettement",
+    "N'a aucune valeur",
+    "Interdit les achats"
+  ],
+  "bonneReponse": 1,
+  "explication": "Le recours au crédit peut encourager certaines personnes à s'endetter."
+},
+{
+  "question": "Parmi ces moyens de paiement, lequel utilise la monnaie scripturale ?",
+  "options": [
+    "Carte bancaire",
+    "Pièce de 2 CHF",
+    "Billet de 50 CHF",
+    "Coquillage"
+  ],
+  "bonneReponse": 0,
+  "explication": "Les cartes utilisent l'argent présent sur les comptes bancaires."
+},
+{
+  "question": "Quel est le nom de la monnaie nationale suisse ?",
+  "options": [
+    "Euro",
+    "Dollar",
+    "Franc suisse",
+    "Livre suisse"
+  ],
+  "bonneReponse": 2,
+  "explication": "La monnaie officielle de la Suisse est le franc suisse."
+},
+{
+  "question": "Quelle est l'abréviation du franc suisse ?",
+  "options": [
+    "FS",
+    "SFR",
+    "CH",
+    "CHF"
+  ],
+  "bonneReponse": 3,
+  "explication": "L'abréviation officielle du franc suisse est CHF."
+},
+{
+  "question": "En quelle année le franc suisse a-t-il été créé ?",
+  "options": [
+    "1848",
+    "1850",
+    "1907",
+    "1914"
+  ],
+  "bonneReponse": 1,
+  "explication": "Le franc suisse a été introduit en 1850."
+},
+{
+  "question": "Avant 1850, la Suisse comptait :",
+  "options": [
+    "Une seule monnaie",
+    "Deux monnaies",
+    "De nombreuses monnaies différentes",
+    "Aucune monnaie"
+  ],
+  "bonneReponse": 2,
+  "explication": "Plusieurs centaines de monnaies circulaient en Suisse avant l'unification."
+},
+{
+  "question": "Quelle institution possède le droit exclusif d'émettre billets et pièces en Suisse ?",
+  "options": [
+    "UBS",
+    "Raiffeisen",
+    "Banque nationale suisse",
+    "PostFinance"
+  ],
+  "bonneReponse": 2,
+  "explication": "La BNS détient le droit exclusif d'émission."
+},
+{
+  "question": "Que signifient les lettres BNS ?",
+  "options": [
+    "Banque Nationale Suisse",
+    "Bureau National Suisse",
+    "Banque Nouvelle Suisse",
+    "Banque Numérique Suisse"
+  ],
+  "bonneReponse": 0,
+  "explication": "BNS signifie Banque Nationale Suisse."
+},
+{
+  "question": "En quelle année la BNS a-t-elle été créée ?",
+  "options": [
+    "1850",
+    "1875",
+    "1907",
+    "1945"
+  ],
+  "bonneReponse": 2,
+  "explication": "La Banque nationale suisse a été fondée en 1907."
+},
+{
+  "question": "Quelle est la première fonction de la monnaie ?",
+  "options": [
+    "Moyen d'échange",
+    "Moyen de transport",
+    "Instrument politique",
+    "Impôt"
+  ],
+  "bonneReponse": 0,
+  "explication": "La monnaie facilite les achats et les ventes."
+},
+{
+  "question": "Quelle est la deuxième fonction de la monnaie ?",
+  "options": [
+    "Créer des biens",
+    "Mesurer la valeur",
+    "Produire des richesses",
+    "Diriger les banques"
+  ],
+  "bonneReponse": 1,
+  "explication": "La monnaie permet de comparer les prix et les valeurs."
+},
+{
+  "question": "Quelle est la troisième fonction de la monnaie ?",
+  "options": [
+    "Réserve de valeur",
+    "Fabrication",
+    "Importation",
+    "Transport"
+  ],
+  "bonneReponse": 0,
+  "explication": "La monnaie peut être conservée sous forme d'épargne."
+},
+{
+  "question": "Quand une personne économise pour un voyage, quelle fonction de la monnaie utilise-t-elle ?",
+  "options": [
+    "Réserve de valeur",
+    "Moyen d'échange",
+    "Mesure de poids",
+    "Monnaie marchandise"
+  ],
+  "bonneReponse": 0,
+  "explication": "Épargner correspond à la fonction de réserve."
+},
+{
+  "question": "Comparer le prix de deux voitures illustre quelle fonction ?",
+  "options": [
+    "Réserve",
+    "Mesure de la valeur",
+    "Production",
+    "Troc"
+  ],
+  "bonneReponse": 1,
+  "explication": "La monnaie sert d'étalon de mesure."
+},
+{
+  "question": "Payer un livre avec une carte bancaire illustre quelle fonction ?",
+  "options": [
+    "Moyen d'échange",
+    "Réserve",
+    "Production",
+    "Autarcie"
+  ],
+  "bonneReponse": 0,
+  "explication": "La monnaie sert ici à effectuer un paiement."
+},
+{
+  "question": "Parmi ces moyens de paiement, lequel est fiduciaire ?",
+  "options": [
+    "Virement bancaire",
+    "Carte de crédit",
+    "Billet de 100 CHF",
+    "Twint"
+  ],
+  "bonneReponse": 2,
+  "explication": "Les billets et pièces constituent la monnaie fiduciaire."
+},
+{
+  "question": "Parmi ces moyens de paiement, lequel est scriptural ?",
+  "options": [
+    "Pièce de 5 CHF",
+    "Billet de 20 CHF",
+    "Carte de débit",
+    "Lingot d'or"
+  ],
+  "bonneReponse": 2,
+  "explication": "La carte utilise l'argent disponible sur le compte bancaire."
+},
+{
+  "question": "Twint est principalement un moyen de paiement :",
+  "options": [
+    "Fiduciaire",
+    "Scriptural",
+    "Marchandise",
+    "Métallique"
+  ],
+  "bonneReponse": 1,
+  "explication": "Twint repose sur des transactions électroniques."
+},
+{
+  "question": "Quelle affirmation est correcte ?",
+  "options": [
+    "Le troc utilise toujours des billets",
+    "L'autarcie favorise de nombreux échanges",
+    "La monnaie sert d'intermédiaire dans les échanges",
+    "La monnaie scripturale est faite d'or"
+  ],
+  "bonneReponse": 2,
+  "explication": "Le rôle fondamental de la monnaie est d'intermédiaire dans les échanges."
+},
+{
+  "question": "Fiduciaire signifie :",
+  "options": [
+    "Métallique",
+    "Confiance",
+    "Commerce",
+    "Électronique"
+  ],
+  "bonneReponse": 1,
+  "explication": "La monnaie fiduciaire repose sur la confiance."
+},
+{
+  "question": "Scriptural signifie :",
+  "options": [
+    "Imprimé",
+    "Métallique",
+    "Écrit",
+    "Commercial"
+  ],
+  "bonneReponse": 2,
+  "explication": "Le terme scriptural vient du latin signifiant 'écrit'."
+},
+{
+  "question": "Laquelle de ces propositions est une monnaie fiduciaire ?",
+  "options": [
+    "Billet de banque",
+    "Virement",
+    "Carte bancaire",
+    "Paiement mobile"
+  ],
+  "bonneReponse": 0,
+  "explication": "Les billets et pièces sont des monnaies fiduciaires."
+},
+{
+  "question": "Quelle affirmation résume le mieux l'évolution des échanges ?",
+  "options": [
+    "Autarcie → Troc → Monnaie marchandise → Monnaie métallique → Monnaie fiduciaire → Monnaie scripturale",
+    "Monnaie scripturale → Autarcie → Troc",
+    "Troc → Autarcie → Monnaie métallique",
+    "Monnaie fiduciaire → Autarcie → Monnaie marchandise"
+  ],
+  "bonneReponse": 0,
+  "explication": "Cette suite résume l'évolution historique présentée dans le cours."
+},
+{
+  "question": "Parmi ces situations, laquelle correspond à l'autarcie ?",
+  "options": [
+    "Une famille qui produit presque tout ce qu'elle consomme",
+    "Une entreprise qui exporte dans le monde entier",
+    "Une banque qui accorde des crédits",
+    "Un magasin qui importe tous ses produits"
+  ],
+  "bonneReponse": 0,
+  "explication": "L'autarcie consiste à satisfaire ses besoins sans dépendre de l'extérieur."
+},
+{
+  "question": "Quelle découverte a fortement favorisé le passage à la vie sédentaire ?",
+  "options": [
+    "Le téléphone",
+    "L'agriculture",
+    "La carte bancaire",
+    "Le commerce électronique"
+  ],
+  "bonneReponse": 1,
+  "explication": "L'agriculture et l'élevage ont permis aux populations de rester installées durablement."
+},
+{
+  "question": "Pour qu'un troc fonctionne, il faut que :",
+  "options": [
+    "Les deux personnes possèdent une carte bancaire",
+    "Les deux personnes souhaitent échanger leurs biens",
+    "Une banque valide l'opération",
+    "Le gouvernement intervienne"
+  ],
+  "bonneReponse": 1,
+  "explication": "Le troc nécessite que chacun trouve un intérêt dans l'échange."
+},
+{
+  "question": "Quel élément n'est PAS une monnaie marchandise ?",
+  "options": [
+    "Le cacao",
+    "Le sel",
+    "Le coquillage",
+    "Le billet de banque"
+  ],
+  "bonneReponse": 3,
+  "explication": "Le billet appartient à la monnaie fiduciaire."
+},
+{
+  "question": "Quelle qualité n'est PAS recherchée pour une monnaie ?",
+  "options": [
+    "Être reconnue",
+    "Être facile à utiliser",
+    "Être durable",
+    "Être extrêmement fragile"
+  ],
+  "bonneReponse": 3,
+  "explication": "Une monnaie fragile serait difficile à conserver et à utiliser."
+},
+{
+  "question": "Pourquoi les pièces métalliques ont-elles connu du succès ?",
+  "options": [
+    "Elles étaient périssables",
+    "Elles étaient standardisées",
+    "Elles étaient invisibles",
+    "Elles étaient gratuites"
+  ],
+  "bonneReponse": 1,
+  "explication": "Les pièces ont un poids, une forme et une valeur définis."
+},
+{
+  "question": "Quelle affirmation est correcte concernant les billets ?",
+  "options": [
+    "Leur valeur dépend surtout de la confiance",
+    "Ils valent leur poids en papier",
+    "Ils sont une monnaie métallique",
+    "Ils sont une monnaie marchandise"
+  ],
+  "bonneReponse": 0,
+  "explication": "La monnaie fiduciaire repose sur la confiance accordée à la valeur du billet."
+},
+{
+  "question": "Quel moyen de paiement utilise principalement la monnaie scripturale ?",
+  "options": [
+    "Le billet de 10 CHF",
+    "La pièce de 2 CHF",
+    "Le virement bancaire",
+    "Le coquillage"
+  ],
+  "bonneReponse": 2,
+  "explication": "Les virements utilisent des écritures électroniques."
+},
+{
+  "question": "Quel est l'avantage principal d'un paiement électronique ?",
+  "options": [
+    "Impossible à tracer",
+    "Plus de rapidité et moins d'encombrement",
+    "Aucun risque de perte",
+    "Suppression de toutes les banques"
+  ],
+  "bonneReponse": 1,
+  "explication": "Les paiements électroniques sont rapides et évitent le transport d'espèces."
+},
+{
+  "question": "Le CHF est :",
+  "options": [
+    "La monnaie de l'Union européenne",
+    "La monnaie nationale suisse",
+    "Une monnaie marchandise",
+    "Une banque"
+  ],
+  "bonneReponse": 1,
+  "explication": "CHF signifie franc suisse."
+},
+{
+  "question": "Quel événement est associé à 1907 en Suisse ?",
+  "options": [
+    "Création du CHF",
+    "Création de la BNS",
+    "Introduction de l'euro",
+    "Disparition du franc suisse"
+  ],
+  "bonneReponse": 1,
+  "explication": "La Banque nationale suisse a été créée en 1907."
+},
+{
+  "question": "Laquelle de ces opérations utilise la monnaie comme réserve de valeur ?",
+  "options": [
+    "Acheter un sandwich",
+    "Comparer le prix de deux vélos",
+    "Mettre de l'argent sur un compte épargne",
+    "Échanger deux objets"
+  ],
+  "bonneReponse": 2,
+  "explication": "Épargner consiste à conserver une valeur pour plus tard."
+},
+{
+  "question": "Laquelle de ces opérations utilise la monnaie comme instrument de mesure ?",
+  "options": [
+    "Comparer les prix de deux téléphones",
+    "Retirer de l'argent",
+    "Faire un virement",
+    "Payer un billet de train"
+  ],
+  "bonneReponse": 0,
+  "explication": "La monnaie permet de comparer la valeur des biens."
+},
+{
+  "question": "Quelle catégorie regroupe les billets et les pièces ?",
+  "options": [
+    "Monnaie marchandise",
+    "Monnaie fiduciaire",
+    "Monnaie scripturale",
+    "Monnaie virtuelle"
+  ],
+  "bonneReponse": 1,
+  "explication": "Les billets et pièces constituent la monnaie fiduciaire."
+},
+{
+  "question": "Quelle phrase résume le mieux le rôle de la monnaie ?",
+  "options": [
+    "Elle remplace le travail humain",
+    "Elle sert d'intermédiaire dans les échanges",
+    "Elle supprime tous les besoins",
+    "Elle remplace les produits"
+  ],
+  "bonneReponse": 1,
+  "explication": "La fonction essentielle de la monnaie est de faciliter les échanges économiques."
+}
+]

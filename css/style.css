@@ -1,0 +1,551 @@
+/* =========================
+   VARIABLES
+========================= */
+
+:root {
+    --primary: #1e88e5;
+    --primary-dark: #1565c0;
+
+    --secondary: #2e7d32;
+    --secondary-dark: #1b5e20;
+
+    --success: #4caf50;
+    --danger: #e53935;
+
+    --background: #f5f7fb;
+    --card: #ffffff;
+    --text: #222222;
+    --shadow: 0 3px 12px rgba(0,0,0,0.12);
+}
+
+/* =========================
+   GLOBAL
+========================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    background: var(--background);
+
+    color: var(--text);
+
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+    padding: 15px;
+}
+
+/* =========================
+   HEADER
+========================= */
+
+header {
+
+    background: linear-gradient(
+        135deg,
+        var(--primary),
+        var(--secondary)
+    );
+
+    color: white;
+
+    text-align: center;
+
+    padding: 20px 15px;
+
+    box-shadow: var(--shadow);
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 5px;
+}
+
+header p {
+    opacity: 0.9;
+}
+
+/* =========================
+   FOOTER
+========================= */
+
+footer {
+
+    text-align: center;
+
+    padding: 15px;
+
+    color: #666;
+
+    font-size: 0.85rem;
+}
+
+/* =========================
+   SCREENS
+========================= */
+
+.screen {
+    display: none;
+}
+
+.screen.active {
+    display: block;
+}
+
+/* =========================
+   BUTTONS
+========================= */
+
+button {
+
+    border: none;
+
+    cursor: pointer;
+
+    transition: .2s ease;
+}
+
+button:hover {
+    transform: translateY(-2px);
+}
+
+.menu-btn {
+
+    width: 100%;
+
+    display: block;
+
+    margin-bottom: 15px;
+
+    padding: 18px;
+
+    font-size: 1.1rem;
+
+    background: white;
+
+    border-radius: 14px;
+
+    box-shadow: var(--shadow);
+}
+
+.menu-btn:hover {
+
+    background: #eef5ff;
+}
+
+.back-btn {
+
+    background: #666;
+
+    color: white;
+
+    padding: 10px 16px;
+
+    border-radius: 10px;
+
+    margin-bottom: 20px;
+}
+
+#shuffle-flashcards,
+#next-question,
+#retry-quiz,
+#review-errors,
+#home-button,
+#resume-prev,
+#resume-next {
+
+    padding: 12px 18px;
+
+    border-radius: 10px;
+
+    color: white;
+
+    background: var(--primary);
+
+    margin: 10px 5px;
+}
+
+#shuffle-flashcards:hover,
+#next-question:hover,
+#retry-quiz:hover,
+#review-errors:hover,
+#home-button:hover,
+#resume-prev:hover,
+#resume-next:hover {
+
+    background: var(--primary-dark);
+}
+
+/* =========================
+   TITRES
+========================= */
+
+h2 {
+
+    margin-bottom: 20px;
+
+    text-align: center;
+
+    color: var(--primary-dark);
+}
+
+/* =========================
+   CONTENU
+========================= */
+
+#resume-detaille-content,
+#resume-express-content,
+#essentiel-content,
+#rattrapage-content {
+
+    background: white;
+
+    padding: 20px;
+
+    border-radius: 14px;
+
+    box-shadow: var(--shadow);
+
+    line-height: 1.7;
+}
+
+/* =========================
+   CHAPITRES
+========================= */
+
+.chapter-title {
+
+    color: var(--secondary);
+
+    margin-bottom: 12px;
+
+    font-size: 1.3rem;
+
+    font-weight: bold;
+}
+
+.chapter-section {
+
+    margin-bottom: 20px;
+}
+
+/* =========================
+   NAVIGATION RESUME
+========================= */
+
+.navigation-buttons {
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    gap: 10px;
+
+    margin-top: 20px;
+}
+
+#resume-counter {
+
+    font-weight: bold;
+
+    min-width: 70px;
+
+    text-align: center;
+}
+
+/* =========================
+   FLASHCARDS
+========================= */
+
+#flashcard-progress {
+
+    text-align: center;
+
+    margin-bottom: 12px;
+
+    font-weight: bold;
+
+    color: var(--secondary);
+}
+
+#flashcard-box {
+
+    min-height: 250px;
+
+    background: white;
+
+    border-radius: 20px;
+
+    padding: 30px;
+
+    text-align: center;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    font-size: 1.4rem;
+
+    line-height: 1.5;
+
+    box-shadow: var(--shadow);
+
+    cursor: pointer;
+
+    margin-bottom: 20px;
+}
+
+#flashcard-box:hover {
+
+    background: #f8fcff;
+}
+
+.flashcard-question {
+
+    color: var(--primary-dark);
+
+    font-weight: bold;
+}
+
+.flashcard-answer {
+
+    color: var(--secondary-dark);
+
+    font-weight: bold;
+}
+
+/* =========================
+   QUIZ
+========================= */
+
+#quiz-progress {
+
+    text-align: center;
+
+    margin-bottom: 15px;
+
+    font-weight: bold;
+
+    color: var(--secondary);
+}
+
+#quiz-question {
+
+    background: white;
+
+    padding: 20px;
+
+    border-radius: 14px;
+
+    box-shadow: var(--shadow);
+
+    font-size: 1.2rem;
+
+    margin-bottom: 20px;
+}
+
+/* =========================
+   OPTIONS QCM
+========================= */
+
+.quiz-option {
+
+    display: block;
+
+    width: 100%;
+
+    text-align: left;
+
+    margin-bottom: 12px;
+
+    padding: 15px;
+
+    border-radius: 12px;
+
+    background: white;
+
+    box-shadow: var(--shadow);
+
+    font-size: 1rem;
+}
+
+.quiz-option:hover {
+
+    background: #eef5ff;
+}
+
+.correct {
+
+    background: #d9f5dc !important;
+
+    border: 2px solid var(--success);
+}
+
+.incorrect {
+
+    background: #ffdede !important;
+
+    border: 2px solid var(--danger);
+}
+
+/* =========================
+   FEEDBACK
+========================= */
+
+#quiz-feedback {
+
+    margin-top: 20px;
+
+    background: white;
+
+    padding: 20px;
+
+    border-radius: 14px;
+
+    box-shadow: var(--shadow);
+
+    display: none;
+}
+
+.feedback-success {
+
+    color: var(--success);
+
+    font-weight: bold;
+
+    font-size: 1.1rem;
+}
+
+.feedback-error {
+
+    color: var(--danger);
+
+    font-weight: bold;
+
+    font-size: 1.1rem;
+}
+
+/* =========================
+   RESULTATS
+========================= */
+
+#result-screen {
+
+    text-align: center;
+}
+
+#final-score {
+
+    font-size: 2.2rem;
+
+    font-weight: bold;
+
+    color: var(--primary);
+
+    margin-bottom: 20px;
+}
+
+#final-level {
+
+    font-size: 1.2rem;
+
+    margin-bottom: 12px;
+}
+
+#final-errors {
+
+    margin-bottom: 25px;
+}
+
+/* =========================
+   STATS
+========================= */
+
+.stat-card {
+
+    background: white;
+
+    padding: 18px;
+
+    border-radius: 14px;
+
+    box-shadow: var(--shadow);
+
+    margin-bottom: 12px;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+}
+
+.stat-card strong {
+
+    color: var(--primary-dark);
+}
+
+/* =========================
+   ESSENTIEL
+========================= */
+
+.memory-item {
+
+    background: #e8f5e9;
+
+    border-left: 6px solid var(--secondary);
+
+    padding: 12px;
+
+    margin-bottom: 10px;
+
+    border-radius: 8px;
+}
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width: 600px) {
+
+    header h1 {
+        font-size: 1.7rem;
+    }
+
+    .menu-btn {
+        font-size: 1rem;
+    }
+
+    #flashcard-box {
+
+        min-height: 220px;
+
+        font-size: 1.2rem;
+    }
+
+    #quiz-question {
+
+        font-size: 1.1rem;
+    }
+
+    .navigation-buttons {
+
+        flex-direction: column;
+    }
+}
