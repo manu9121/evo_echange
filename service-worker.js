@@ -1,4 +1,4 @@
-const CACHE_NAME = "evo-echange-v2";
+const CACHE_NAME = "evo-echange-v3";
 
 const FILES_TO_CACHE = [
 
