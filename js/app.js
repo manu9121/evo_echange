@@ -7,6 +7,7 @@ let resumeExpress = {};
 let essentiel = [];
 let flashcards = [];
 let questions = [];
+let quizQuestions = [];
 
 let chapitreActuel = 0;
 
@@ -406,7 +407,7 @@ document
 // QUIZ
 // =========================
 
-function lancerQuiz() {
+function lancerQuiz(nbQuestions = 20) {
 
     rattrapageMode = false;
 
@@ -416,6 +417,24 @@ function lancerQuiz() {
 
     erreurs = [];
 
+    // Copie du tableau
+
+    quizQuestions = [...questions];
+
+    // Mélange
+
+    quizQuestions.sort(
+        () => Math.random() - 0.5
+    );
+
+    // Limitation
+
+    quizQuestions =
+        quizQuestions.slice(
+            0,
+            nbQuestions
+        );
+
     showScreen("quiz-screen");
 
     afficherQuestionQuiz();
@@ -423,12 +442,12 @@ function lancerQuiz() {
 
 function afficherQuestionQuiz() {
 
-    const q = questions[quizIndex];
+    const q = quizQuestions[quizIndex];
 
     document.getElementById(
         "quiz-progress"
     ).textContent =
-        `Question ${quizIndex + 1} / ${questions.length}`;
+        `Question ${quizIndex + 1} / ${quizQuestions.length}`;
 
     document.getElementById(
         "quiz-question"
@@ -481,7 +500,7 @@ function afficherQuestionQuiz() {
 function verifierReponse(indexChoisi) {
 
     const q =
-        questions[quizIndex];
+        quizQuestions[quizIndex];
 
     const feedback =
         document.getElementById(
@@ -586,7 +605,7 @@ document
             const liste =
                 rattrapageMode
                     ? rattrapageQuestions
-                    : questions;
+                    : quizQuestions;
 
             if (
                 quizIndex >=
@@ -631,7 +650,7 @@ function terminerQuiz() {
                 (
                     rattrapageMode
                         ? rattrapageQuestions.length
-                        : questions.length
+                        : quizQuestions.length
                 )
             ) * 100
         );
