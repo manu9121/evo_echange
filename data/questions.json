@@ -988,5 +988,115 @@
   ],
   "bonneReponse": 1,
   "explication": "La fonction essentielle de la monnaie est de faciliter les échanges économiques."
+},
+{
+  "question": "Quelle forme de monnaie est apparue en dernier dans l'histoire ?",
+  "options": [
+    "La monnaie marchandise",
+    "La monnaie métallique",
+    "La monnaie fiduciaire",
+    "La monnaie scripturale"
+  ],
+  "bonneReponse": 3,
+  "explication": "La monnaie scripturale est la forme de monnaie la plus récente parmi celles étudiées."
+},
+{
+  "question": "Quel est l'ordre correct de l'évolution des échanges ?",
+  "options": [
+    "Autarcie → Troc → Monnaie marchandise → Monnaie métallique → Monnaie fiduciaire → Monnaie scripturale",
+    "Troc → Autarcie → Monnaie scripturale",
+    "Monnaie métallique → Autarcie → Troc",
+    "Monnaie fiduciaire → Monnaie marchandise → Troc"
+  ],
+  "bonneReponse": 0,
+  "explication": "Cet ordre correspond à l'évolution historique étudiée dans le cours."
+},
+{
+  "question": "Lequel de ces éléments est une monnaie fiduciaire ?",
+  "options": [
+    "Twint",
+    "Carte de crédit",
+    "Billet de 50 CHF",
+    "Virement bancaire"
+  ],
+  "bonneReponse": 2,
+  "explication": "Les billets et les pièces constituent la monnaie fiduciaire."
+},
+{
+  "question": "Lequel de ces éléments est une monnaie scripturale ?",
+  "options": [
+    "Pièce de 5 CHF",
+    "Billet de 20 CHF",
+    "Paiement par virement",
+    "Lingot d'or"
+  ],
+  "bonneReponse": 2,
+  "explication": "Le virement correspond à une écriture électronique dans un compte bancaire."
+},
+{
+  "question": "Quel mot est associé à la monnaie fiduciaire ?",
+  "options": [
+    "Confiance",
+    "Écriture",
+    "Métal",
+    "Troc"
+  ],
+  "bonneReponse": 0,
+  "explication": "Le mot fiduciaire provient du latin 'fiducia' signifiant confiance."
+},
+{
+  "question": "Quel mot est associé à la monnaie scripturale ?",
+  "options": [
+    "Confiance",
+    "Écriture",
+    "Métal",
+    "Sel"
+  ],
+  "bonneReponse": 1,
+  "explication": "Le mot scriptural signifie 'qui est écrit'."
+},
+{
+  "question": "Que signifie principalement l'autarcie à l'échelle d'un pays ?",
+  "options": [
+    "Beaucoup d'importations",
+    "Très peu d'échanges avec l'extérieur",
+    "Une utilisation exclusive de cartes bancaires",
+    "Un développement du commerce mondial"
+  ],
+  "bonneReponse": 1,
+  "explication": "L'autarcie correspond à une économie fermée avec peu d'échanges extérieurs."
+},
+{
+  "question": "Pourquoi le surplus est-il indispensable au développement des échanges ?",
+  "options": [
+    "Parce qu'il permet d'avoir quelque chose à échanger",
+    "Parce qu'il crée automatiquement de la monnaie",
+    "Parce qu'il remplace le travail",
+    "Parce qu'il supprime les besoins"
+  ],
+  "bonneReponse": 0,
+  "explication": "Sans surplus, tout est consommé et rien ne peut être échangé."
+},
+{
+  "question": "Quelle fonction de la monnaie est utilisée lorsqu'on compare le prix de deux vélos ?",
+  "options": [
+    "Moyen d'échange",
+    "Réserve de valeur",
+    "Instrument de mesure",
+    "Fonction bancaire"
+  ],
+  "bonneReponse": 2,
+  "explication": "La monnaie sert ici à mesurer et comparer la valeur des biens."
+},
+{
+  "question": "Quelle date faut-il associer à la Banque Nationale Suisse ?",
+  "options": [
+    "1848",
+    "1850",
+    "1907",
+    "2002"
+  ],
+  "bonneReponse": 2,
+  "explication": "La BNS a été créée en 1907."
 }
 ]
