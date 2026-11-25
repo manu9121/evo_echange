@@ -120,8 +120,12 @@ function initMenu() {
                             lancerFlashcards();
                             break;
 
-                        case "quiz":
-                            lancerQuiz();
+                        case "quiz20":
+                            lancerQuiz(20);
+                            break;
+
+                        case "quiz100":
+                            lancerQuiz(100);
                             break;
 
                         case "rattrapage":
