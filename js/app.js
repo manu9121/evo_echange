@@ -44,31 +44,31 @@ async function chargerDonnees() {
     try {
 
         const resumeDetailleData =
-            await fetch("data/resume_detaille.json");
+            await fetch("data/resume_detaille.json?v=2");
 
         resumeDetaille =
             await resumeDetailleData.json();
 
         const resumeExpressData =
-            await fetch("data/resume_express.json");
+            await fetch("data/resume_express.json?v=2");
 
         resumeExpress =
             await resumeExpressData.json();
 
         const essentielData =
-            await fetch("data/essentiel.json");
+            await fetch("data/essentiel.json?v=2");
 
         essentiel =
             await essentielData.json();
 
         const flashcardsData =
-            await fetch("data/flashcards.json");
+            await fetch("data/flashcards.json?v=2");
 
         flashcards =
             await flashcardsData.json();
 
         const questionsData =
-            await fetch("data/questions.json");
+            await fetch("data/questions.json?v=2");
 
         questions =
             await questionsData.json();
