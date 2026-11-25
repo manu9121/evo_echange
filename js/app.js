@@ -659,10 +659,15 @@ function terminerQuiz() {
             ) * 100
         );
 
+    const totalQuestions =
+        rattrapageMode
+            ? rattrapageQuestions.length
+            : quizQuestions.length;
+
     document.getElementById(
         "final-score"
     ).innerHTML =
-        `${score} points`;
+        `${score} / ${totalQuestions}`;
 
     let niveau = "À revoir";
 
@@ -813,7 +818,7 @@ function sauvegarderStats() {
 
     localStorage.setItem(
         "evoLastScore",
-        score
+        `${score}/${quizQuestions.length}`
     );
 
     const best =
